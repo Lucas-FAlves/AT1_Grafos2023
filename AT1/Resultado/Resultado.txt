@@ -1,0 +1,3 @@
+A matriz do arquivo zachary.txt possui:
+Linhas:  34
+Colunas:  34
